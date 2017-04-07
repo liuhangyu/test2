@@ -1,6 +1,10 @@
 weowqeoqweyoqwyeqow nkdhsahdfksdhfsadkfh
 oooo
+<<<<<<< HEAD
 sdssssssssssssssssssssssssa
+=======
+
+>>>>>>> dev1
 
 
 
